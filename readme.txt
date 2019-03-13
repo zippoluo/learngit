@@ -5,3 +5,4 @@ Git tracks changes of files.
 This is a test of GitHub - huge.
 Creating a new branch is quick and simple.
 This is a bug branch test.
+This is a multiwork test by clone.
